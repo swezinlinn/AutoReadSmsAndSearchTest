@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_prompt">Speak an item</string>
+    <string name="search_hint">Search&#8230;</string>
+</resources>
